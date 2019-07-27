@@ -1,0 +1,4 @@
+{"mainfile":"src/MarsApplication.java",
+"compilemenucommand":"javac -classpath './src' src/*.java",
+"runmenucommand":"java -classpath 'src/' MarsApplication"
+}

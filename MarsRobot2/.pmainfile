@@ -1,0 +1,4 @@
+{"mainfile":"src/MarsRobot2.java",
+"compilemenucommand":"javac -classpath './src' src/*.java",
+"runmenucommand":"java -classpath 'src/' MarsRobot2"
+}

@@ -1,0 +1,5 @@
+type=exercise
+test=.test/BookFilterTest
+testmainclass=BookFilterTest
+question=Problem:\n \
+\n Create a simple XML format to represent a book collection with three books and a Java application that searches for books with George R. R. Martin as the author, displaying any that it finds.\

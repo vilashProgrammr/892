@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CodeKeeper<CodeKeeper>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "CodeKeeper",
+      "args": "one two three",
+      "projectName": "CodeKeeper"
+    }
+  ]
+}

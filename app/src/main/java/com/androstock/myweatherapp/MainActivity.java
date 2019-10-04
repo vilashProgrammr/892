@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         weatherIcon = (TextView) findViewById(R.id.weather_icon);
         weatherFont = Typeface.createFromAsset(getAssets(), "fonts/weathericons-regular-webfont.ttf");
         weatherIcon.setTypeface(weatherFont);
-
+       System.
         taskLoadUp(city);
 
         selectCity.setOnClickListener(new View.OnClickListener() {

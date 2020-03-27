@@ -1,0 +1,5 @@
+{"mainfile":"Application.java",
+"compilemenucommand":"javac -classpath './src' ./*.java",
+"runmenucommand":"java -classpath './' Application",
+"showterminal":true
+}

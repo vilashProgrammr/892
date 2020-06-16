@@ -1,0 +1,7 @@
+{"mainfile":"Echo.java",
+"compilemenucommand":"javac -classpath '.' Echo.java",
+"runmenucommand":"java -classpath '.' Echo",
+"testmenucommand":"> .testcaseop && :> .testcaseop2 && sh ./test.sh < Echo.java > ./.testcaseop",
+"showterminal":true,
+"showQuestionInPopup":true
+}

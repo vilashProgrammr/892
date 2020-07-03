@@ -1,0 +1,5 @@
+type=exercise
+test=.test/BirthdayTest
+testmainclass=BirthdayTest
+question=Problem:\n \
+Create a program that turns a birthday in MM/DD/YYYY format (such as 04/29/2016) into three individual strings.\

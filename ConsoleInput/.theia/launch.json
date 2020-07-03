@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ConsoleInput<ConsoleInput>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "stopOnEntry": false,
+      "mainClass": "com.java21days.ConsoleInput",
+      "args": "123123",
+      "projectName": "ConsoleInput"
+    }
+  ]
+}

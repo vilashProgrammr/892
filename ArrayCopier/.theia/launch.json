@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ArrayCopier<ArrayCopier>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "com.java21days.ArrayCopier",
+      "args": "",
+      "projectName": "ArrayCopier"
+    }
+  ]
+}

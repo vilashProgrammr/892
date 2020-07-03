@@ -1,0 +1,4 @@
+{"mainfile":"src/BookFilter.java",
+"compilemenucommand":"javac -classpath './lib/xom-1.2.7.jar' src/*.java",
+"runmenucommand":"java -classpath 'src/:lib/*' BookFilter"
+}

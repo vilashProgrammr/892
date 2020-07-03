@@ -1,0 +1,4 @@
+{"mainfile":"src/com/java21days/Divider.java",
+"compilemenucommand":"javac -classpath './src' src/com/java21days/*.java",
+"runmenucommand":"java -classpath './src' com.java21days.Divider"
+}

@@ -1,0 +1,42 @@
+<Books>
+	<Book>
+		<Author>Ellen Ullman</Author>
+		<Title>Close to the Machine</Title>
+	</Book>
+	<Book>
+		<Author>Richard P. Gabriel</Author>
+		<Title>Patterns of Software</Title>
+	</Book>
+	<Book>
+		<Author>George R.R. Martin</Author>
+		<Title>Wild Cards: Suicide Kings</Title>
+	</Book>
+	<Book>
+		<Author>Ellen Ullman</Author>
+		<Title>The Art of Computer Programming</Title>
+	</Book>
+	<Book>
+		<Author>George R.R. Martin</Author>
+		<Title>A Game of Thrones</Title>
+	</Book>
+	<Book>
+		<Author>George R.R. Martin</Author>
+		<Title>Test Book</Title>
+	</Book>
+	<Book>
+		<Author>George R.R. Martin</Author>
+		<Title>Test Book New</Title>
+	</Book>
+	<Book>
+		<Author>Ellen Ullman</Author>
+		<Title>The New Hacker's Dictionary</Title>
+	</Book>
+	<Book>
+		<Author>Richard P. Gabriel</Author>
+		<Title>Free Software, Free Society</Title>
+	</Book>
+	<Book>
+		<Author>Richard P. Gabriel</Author>
+		<Title>Innovation Happens Elsewhere</Title>
+	</Book>
+</Books>

@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-MarsRobot2<MarsRobot2>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "MarsRobot2",
+      "args": "",
+      "projectName": "MarsRobot2"
+    }
+  ]
+}
